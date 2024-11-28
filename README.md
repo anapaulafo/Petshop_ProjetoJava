@@ -16,7 +16,6 @@ O projeto consiste em um sistema para um estabelecimento PetShop, onde é possí
 
 ## 🗺️ Mapa das funcionalidades
 ![Mapa de funcionalidades](/SistemaPetshop.jpg)
-Descrição de classes e métodos
 
 ## 📝 Instruções para uso
 Para utilizar o sistema, basta clonar o repositório e executar o arquivo Main.java.
