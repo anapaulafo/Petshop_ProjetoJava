@@ -8,7 +8,9 @@ Projeto apresentado para o componente curricular Linguagem de Programação I mi
 
 ## 💁‍♀️ Autoras
 Ana Carolina da Matta Cartaxo
+
 Ana Paula Ferreira Oliveira
+
 Anna Luiza Britto de Lima
 
 ## 📝 Descrição
