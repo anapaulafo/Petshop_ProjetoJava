@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="915a964d-e2b4-4d0a-9e36-42bceb09ac34" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/Agendamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Agendamento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/Servico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Servico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/service/AgendamentoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/AgendamentoService.java" afterDir="false" />
@@ -43,8 +42,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "PS002-PS005",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/samsung/Desktop/SISTEMAS/P2/PROJETO JAVA I/Commit 6 AL",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +71,7 @@
       <updated>1732660440925</updated>
       <workItem from="1732660442032" duration="1183000" />
       <workItem from="1732804373200" duration="128000" />
+      <workItem from="1732805543174" duration="396000" />
     </task>
     <servers />
   </component>
